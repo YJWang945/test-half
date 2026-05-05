@@ -1,0 +1,7 @@
+{
+  "task_code": "T1_DEV",
+  "summary": "HALF demo run: repo lacks source code, no real fix applied. Generated report.md with recommendations for future steps.",
+  "artifacts": [
+    "half-run/T1_DEV/report.md"
+  ]
+}
