@@ -1,0 +1,7 @@
+{
+  "task_code": "T3_REVIEW",
+  "summary": "HALF demo run: reviewed T1_DEV and T2_TEST outputs. All pass — consistent with repo reality (no source code). No blocking issues found.",
+  "artifacts": [
+    "half-run/T3_REVIEW/review_report.md"
+  ]
+}
