@@ -1,0 +1,7 @@
+{
+  "task_code": "T4_EVAL",
+  "summary": "HALF demo run complete. All four stages (DEV/TEST/REVIEW/EVAL) consistent — repo has no source code, no real fix applied. Pipeline integrity verified.",
+  "artifacts": [
+    "half-run/T4_EVAL/eval_report.md"
+  ]
+}
